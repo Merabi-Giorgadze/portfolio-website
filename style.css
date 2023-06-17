@@ -480,10 +480,6 @@
      right: 2rem;
    }
 
-   .scroll-down {
-     display: none;
-   }
-
    .home {
      grid-template-columns: 0.5fr 3fr;
    }
