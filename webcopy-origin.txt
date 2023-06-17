@@ -1,0 +1,68 @@
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\npm\boxicons@latest\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\npm\boxicons@latest\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\npm\boxicons@latest\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\npm\boxicons@latest\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\npm\boxicons@latest\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\npm\boxicons@latest\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://portflix-website-tutorial.netlify.app/
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://portflix-website-tutorial.netlify.app/main.png
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\main.png
+Content Type: image/png
+
+Uri: https://portflix-website-tutorial.netlify.app/script.js
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\script.js
+Content Type: application/javascript
+
+Uri: https://portflix-website-tutorial.netlify.app/style.css
+File Name: C:\Downloaded Web Sites\portflix-website-tutorial.netlify.app\style.css
+Content Type: text/css
+
